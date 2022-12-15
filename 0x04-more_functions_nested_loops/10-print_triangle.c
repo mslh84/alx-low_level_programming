@@ -1,4 +1,4 @@
-#include "main.h"
+include "main.h"
 
 /**
  * print_triangle - print traingle with #'s with given size
@@ -24,3 +24,4 @@ void print_triangle(int size)
 
 		_putchar('\n');
 	}
+}
